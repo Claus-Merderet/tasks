@@ -1,0 +1,32 @@
+
+.navbar{
+    height: 80px;
+}
+footer{
+    background:WhiteSmoke;
+    height: 100px;
+    text-align: center;
+}
+
+h4{
+    border:2px  solid rgba(0, 0, 0,0.5);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h4:hover{
+    border:2px solid LightSlateGray;
+    border-radius: 20px;
+    background: rgba(0, 0, 0,0.85);
+    color: white;
+
+}
+#form #email
+{
+}
+#form #name
+{
+}
+#form #number
+{
+}
